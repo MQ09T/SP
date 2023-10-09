@@ -1,4 +1,11 @@
 .動画 {
     position: sticky;
     top: 0;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+.動画 iframe {
+  width: 100%;
+  height: 100%;
 }
